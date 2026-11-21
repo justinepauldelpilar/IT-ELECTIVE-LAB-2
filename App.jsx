@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { Routes, Route, NavLink, Link, useLocation } from 'react-router-dom'
 import { ArrowUpRight, Github, Linkedin, Mail, Menu, X, Code2, GraduationCap, Layers3, Sparkles, ExternalLink, MapPin, Download } from 'lucide-react'
 
